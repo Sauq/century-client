@@ -4,3 +4,33 @@ This client is still in EARLY BETA! Just drag the folder into versions and creat
 - Discord: https://discord.gg/FCudefRW8W
 
 - Current Features:
+- Perspective Mod
+- Zoom
+- FPS Display
+- CPS Display
+- Keystrokes
+- Potion Status
+- Toggle Sprint
+- 1.7 Animations
+- Armor Status
+- Item Physics
+- Ping Display
+- Block Overlay
+- ChatBG
+- Time Display
+- Auto GG
+- Auto Tip
+- 6 Free Custom Cape Cosmetics
+- Free Dragon Wing Cosmetic
+- Free Halo Cosmetic
+- Free Easter Eggs Cosmetic
+- Free WitchHat Cosmetic
+- Free Slime Cosmetic
+- Free Wither Cosmetic
+- Free Creeper Cosmetic
+- Free Skin Changer
+- FPS Boost
+- Always Crit Mod
+- Name Over Head Mod
+- FOV Mod
+- Chroma Options
