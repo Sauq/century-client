@@ -2,7 +2,7 @@
 This client is still in EARLY BETA! Just drag the folder into versions and create a new install!
 - How to install: https://www.youtube.com/watch?v=rDJZPRpAPeM&ab_channel=Sauq
 - Discord: https://discord.gg/FCudefRW8W
-
+```shell
 - Current Features:
 - Perspective Mod
 - Zoom
@@ -34,3 +34,5 @@ This client is still in EARLY BETA! Just drag the folder into versions and creat
 - Name Over Head Mod
 - FOV Mod
 - Chroma Options
+
+```
