@@ -1,7 +1,7 @@
 # Century Client
 This client is still in EARLY BETA! Just drag the folder into versions and create a new install!
 - How to install: https://www.youtube.com/watch?v=rDJZPRpAPeM&ab_channel=Sauq
-- Current Version: https://github.com/Sauq/century-client/releases/tag/1
+- Current Version: https://github.com/Sauq/century-client/releases/tag/Main
 - Discord: https://discord.gg/FCudefRW8W
 
 ## Current Features:
