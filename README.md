@@ -32,7 +32,7 @@ This client is still in EARLY BETA! Just drag the folder into versions and creat
 - Free Creeper Cosmetic
 - Free Skin Changer
 - FPS Boost
-- Always Crit Mod
+- Always Crit (Particles)
 - Name Over Head Mod
 - FOV Mod
 - Chroma Options
