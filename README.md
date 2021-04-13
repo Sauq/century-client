@@ -36,5 +36,5 @@ This client is still in EARLY BETA! Just drag the folder into versions and creat
 - Name Over Head Mod
 - FOV Mod
 - Chroma Options
-
+- - Chroma Chat
 ```
